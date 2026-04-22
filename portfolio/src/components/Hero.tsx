@@ -207,18 +207,7 @@ export default function Hero() {
                 />
               </div>
 
-              <motion.div
-                animate={{ y: [0, -6, 0] }}
-                transition={{ duration: 3, repeat: Infinity, ease: 'easeInOut' }}
-                className="absolute -bottom-4 -right-4 bg-white border border-slate-200 rounded-2xl px-4 py-3 shadow-lg"
-              >
-                <p className="text-cyan-600 text-[11px] font-semibold font-mono tracking-wide">
-                  JPMorgan Chase
-                </p>
-                <p className="text-slate-900 text-sm font-bold">
-                  Software Engineer
-                </p>
-              </motion.div>
+
             </div>
 
             <div className="grid grid-cols-3 gap-4 w-full mt-4">
