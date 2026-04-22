@@ -151,11 +151,12 @@ export default function Hero() {
               </a>
 
               <a
-                href="/cv/Jahnavi_Gona_Resume.pdf"
-                download
+                href="https://drive.google.com/file/d/1MH8ujI9dbFXJCG1VackjEaUhhNObE5HJ/preview"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-7 py-3 rounded-full bg-white text-slate-800 font-semibold text-[15px] border border-slate-200 shadow-sm hover:-translate-y-1 hover:shadow-md hover:border-slate-300 transition-all duration-300"
               >
-                <FiDownload size={15} /> Resume
+                <FiDownload size={15} /> View Resume
               </a>
             </motion.div>
 

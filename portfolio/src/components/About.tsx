@@ -89,12 +89,13 @@ export default function About() {
             </div>
 
             <a
-              href="/cv/Jahnavi_Gona_Resume.pdf"
-              download
+              href="https://drive.google.com/file/d/1MH8ujI9dbFXJCG1VackjEaUhhNObE5HJ/view"
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-blue-600 text-white text-sm font-semibold hover:bg-blue-700 transition-colors shadow-md shadow-blue-100"
             >
               <FiDownload size={14} />
-              Download Resume
+              View Resume
             </a>
           </motion.div>
         </div>
