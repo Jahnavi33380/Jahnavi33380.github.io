@@ -120,7 +120,7 @@ export default function Hero() {
             >
               Software Engineer with{' '}
               <span className="font-semibold text-slate-900">
-                3+ years of experience
+                2+ years of experience
               </span>{' '}
               building scalable full-stack applications at{' '}
               <span className="font-semibold text-cyan-700">
