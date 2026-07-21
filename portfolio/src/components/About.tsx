@@ -3,7 +3,7 @@ import { motion, useInView } from 'framer-motion'
 import { FiDownload, FiBriefcase, FiCode, FiAward } from 'react-icons/fi'
 
 const stats = [
-  { icon: FiBriefcase, value: '3+', label: 'Years Experience' },
+  { icon: FiBriefcase, value: '2+', label: 'Years Experience' },
   { icon: FiCode, value: '20+', label: 'Technologies' },
   { icon: FiAward, value: 'JPM', label: 'Chase & Co.' },
 ]
